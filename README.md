@@ -1,6 +1,6 @@
 # NaraEdu: Student Management System with AI Integration 🚀
 
-[![Framework](https://img.shields.io/badge/.NET-8.0-blueviolet)](https://dotnet.microsoft.com/)
+[![Framework](https://img.shields.io/badge/.NET-10.0-blueviolet)](https://dotnet.microsoft.com/)
 [![Database](https://img.shields.io/badge/Database-SQL--Server-blue)](https://www.microsoft.com/en-us/sql-server/)
 [![AI](https://img.shields.io/badge/AI-Ollama--Nara-orange)](https://ollama.com/)
 
